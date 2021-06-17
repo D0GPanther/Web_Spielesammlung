@@ -1,0 +1,107 @@
+title {
+    padding: 0;
+    margin: 0;
+    position: relative;
+
+}
+
+#menubar{
+    background-color: yellow;
+    position: center;
+    border-style: none;
+}
+
+canvas {
+    background: rgba(116, 122, 172, 0.93);
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    top: 5em;
+    border-style: solid;
+    border-width: 0.5em;
+    border-color: darkblue
+}
+
+html {
+    background-image: url("file:///C:/Unterlagen/My%20Web%20Sites/BreakOut/background2.jpg");
+    font-family: 'Bauhaus 93';
+}
+
+button {
+    position: relative;
+    background-color: beige;
+    color: firebrick;
+    font-family: 'Bauhaus 93';
+}
+
+#start {
+    width: 10em;
+    height: 4em;
+
+    bottom: 20em;
+    left: 30em;
+    display: block;
+    margin: 0 auto;
+
+
+    font-size:19px;
+}
+
+#breakOut{
+  width: 6.5em;
+  height: 1.5em;
+
+  bottom: 13em;
+  left: 30em;
+  display: block;
+  margin: 0 auto;
+
+  font-size: 19px;
+}
+
+#bounce {
+  width: 6.5em;
+  height: 1.5em;
+
+  bottom: 12em;
+  left: 30em;
+  display: block;
+  margin: 0 auto;
+
+  font-size: 19px;
+}
+
+#multiplayer {
+    width: 6.5em;
+    height: 1.5em;
+
+    bottom: 11em;
+    left: 30em;
+    display: block;
+    margin: 0 auto;
+
+    font-size: 19px;
+}
+
+#Settings {
+  width: 6.5em;
+  height: 1.5em;
+
+  bottom: 10em;
+  left: 30em;
+  display: block;
+  margin: 0 auto;
+
+  font-size: 19px;
+}
+
+#titel {
+    color: firebrick;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+
+    font-size: 40px;
+    font-style: oblique;
+    width: 200px;
+}
