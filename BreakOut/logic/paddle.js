@@ -24,15 +24,11 @@ function checkMovement() {
     if (rightPressed && paddleX < canvas.width - paddleWidth) {
         paddleX += moveStep;
     }
-    if (rightPressed && paddleX < canvas.width - paddleWidth) {
-        paddleX += moveStep;
-    }
+
     if (leftPressed && paddleX > 0) {
         paddleX -= moveStep;
     }
-    if (leftPressed && paddleX > 0) {
-        paddleX -= moveStep;
-    }
+
     if (leftPressed && paddleX > 0) {
         paddleX -= moveStep;
     }
