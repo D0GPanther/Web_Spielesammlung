@@ -1,0 +1,145 @@
+title {
+    padding: 0;
+    margin: 0;
+    position: relative;
+}
+
+canvas {
+    background: rgba(116, 122, 172, 0.93);
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    top: 4em;
+    border-style: solid;
+    border-width: 0.5em;
+    border-color: darkblue
+}
+
+html {
+    background-image: url("../stylesheet/background2.jpg");
+    font-family: 'Bauhaus 93';
+}
+
+button {
+    position: relative;
+    background-color: beige;
+    color: firebrick;
+    font-family: 'Bauhaus 93';
+}
+
+#titel {
+  color: yellow;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+
+    font-size: 40px;
+    font-style: oblique;
+    width: 200px;
+}
+
+
+#menubar{
+    background-color: yellow;
+    position: center;
+    border-style: none;
+}
+
+
+
+#start {
+    width: 10em;
+    height: 4em;
+
+    bottom: 20em;
+    right: 25em;
+    display: block;
+    margin: 0 auto;
+
+
+    font-size:19px;
+}
+
+#breakOut{
+  width: 6.5em;
+  height: 1.5em;
+
+  bottom: 13em;
+  right: 25em;
+  display: block;
+  margin: 0 auto;
+
+  font-size: 19px;
+}
+
+#bounce {
+  width: 6.5em;
+  height: 1.5em;
+
+  bottom: 12em;
+  right: 25em;
+  display: block;
+  margin: 0 auto;
+
+  font-size: 19px;
+}
+
+#multiplayer {
+    width: 6.5em;
+    height: 1.5em;
+
+    bottom: 11em;
+    right: 25em;
+    display: block;
+    margin: 0 auto;
+
+    font-size: 19px;
+}
+
+#settings {
+  width: 6.5em;
+  height: 1.5em;
+
+  bottom: 10em;
+  right: 25em;
+  display: block;
+  margin: 0 auto;
+
+  font-size: 19px;
+}
+
+#sButtonBounceBall  {
+  width: 6.5em;
+  height: 1.5em;
+
+  bottom: 30em;
+  left: auto;
+  display: block;
+  margin: 0 auto;
+
+  font-size: 19px;
+}
+
+#sButtonBreakOut {
+  width: 6.5em;
+  height: 1.5em;
+
+  bottom: 20em;
+  left: auto;
+  display: block;
+  margin: 0 auto;
+
+  font-size: 19px;
+}
+
+#sButtonPong  {
+  width: 6.5em;
+  height: 1.5em;
+
+  bottom: 10em;
+  left: auto;
+  display: block;
+  margin: 0 auto;
+
+  font-size: 19px;
+}
