@@ -8,3 +8,12 @@ Go and try^^
 
 
 D0GPanther
+
+
+2D RPG
+
+  -Grafikimport js
+  -Spielfeld erschaffen
+  -Kamera?
+  -2D animation
+  -
